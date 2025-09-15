@@ -23,13 +23,10 @@ pip install -r requirements.txt
 
 ## Usage
 Run each program:
+
 ```bash
 cd src
 python LSTMPredictor.py
 python LSTMTrainer.py
 python LSTMViewer.py
-```
-
-
-
 ```
